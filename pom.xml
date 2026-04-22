@@ -38,8 +38,8 @@
  <manifest>
  <mainClass>project2.p2.App</mainClass> <!-- 👈 Change to your
 actual main class -->
- </manifest>
- </archive>
+ </manifest> 
+ </archive> 
  </configuration>
  </plugin>
  </plugins>
